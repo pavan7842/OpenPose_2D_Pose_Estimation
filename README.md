@@ -11,7 +11,7 @@ This project implements **OpenPose** using deep learning for **real-time multi-p
 
 ## 📂 Project Structure
 - `code/` → Python scripts used for running OpenPose in Colab.
-- `datasets/` → Sample dataset used for training/testing (optional).
+- `datasets/` → Sample dataset used for training/testing.
 - `results/` → Output images/videos from the model.
 
 ## 🚀 Live Notebook (Google Colab)
